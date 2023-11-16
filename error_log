@@ -1,0 +1,16 @@
+[27-Sep-2020 03:19:30 UTC] PHP Warning:  include(system_datlight/function.php): failed to open stream: No such file or directory in /home/hayitorg/ngocrong.ml/vongquaythezing.php on line 3
+[27-Sep-2020 03:19:30 UTC] PHP Warning:  include(system_datlight/function.php): failed to open stream: No such file or directory in /home/hayitorg/ngocrong.ml/vongquaythezing.php on line 3
+[27-Sep-2020 03:19:30 UTC] PHP Warning:  include(): Failed opening 'system_datlight/function.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/hayitorg/ngocrong.ml/vongquaythezing.php on line 3
+[27-Sep-2020 03:19:30 UTC] PHP Warning:  include(system_datlight/head.php): failed to open stream: No such file or directory in /home/hayitorg/ngocrong.ml/vongquaythezing.php on line 5
+[27-Sep-2020 03:19:30 UTC] PHP Warning:  include(system_datlight/head.php): failed to open stream: No such file or directory in /home/hayitorg/ngocrong.ml/vongquaythezing.php on line 5
+[27-Sep-2020 03:19:30 UTC] PHP Warning:  include(): Failed opening 'system_datlight/head.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/hayitorg/ngocrong.ml/vongquaythezing.php on line 5
+[27-Sep-2020 03:19:30 UTC] PHP Notice:  Undefined variable: db in /home/hayitorg/ngocrong.ml/vongquaythezing.php on line 703
+[27-Sep-2020 03:19:30 UTC] PHP Fatal error:  Call to a member function query() on null in /home/hayitorg/ngocrong.ml/vongquaythezing.php on line 703
+[28-Sep-2020 16:33:05 Asia/Ho_Chi_Minh] PHP Notice:  A session had already been started - ignoring session_start() in /home/hayitorg/ngocrong.ml/qmk.php on line 19
+[28-Sep-2020 16:34:04 Asia/Ho_Chi_Minh] PHP Notice:  A session had already been started - ignoring session_start() in /home/hayitorg/ngocrong.ml/qmk.php on line 19
+[28-Sep-2020 16:34:12 Asia/Ho_Chi_Minh] PHP Notice:  A session had already been started - ignoring session_start() in /home/hayitorg/ngocrong.ml/qmk.php on line 19
+[28-Sep-2020 16:36:36 Asia/Ho_Chi_Minh] PHP Notice:  A session had already been started - ignoring session_start() in /home/hayitorg/ngocrong.ml/qmk.php on line 19
+[28-Sep-2020 16:41:39 Asia/Ho_Chi_Minh] PHP Notice:  A session had already been started - ignoring session_start() in /home/hayitorg/ngocrong.ml/qmk.php on line 19
+[28-Sep-2020 16:42:13 Asia/Ho_Chi_Minh] PHP Notice:  A session had already been started - ignoring session_start() in /home/hayitorg/ngocrong.ml/qmk.php on line 16
+[28-Sep-2020 16:42:17 Asia/Ho_Chi_Minh] PHP Notice:  A session had already been started - ignoring session_start() in /home/hayitorg/ngocrong.ml/qmk.php on line 16
+[28-Sep-2020 16:42:41 Asia/Ho_Chi_Minh] PHP Notice:  A session had already been started - ignoring session_start() in /home/hayitorg/ngocrong.ml/qmk.php on line 16
